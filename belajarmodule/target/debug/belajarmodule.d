@@ -1,0 +1,1 @@
+C:\xampp\htdocs\belajarrustlang\belajarmodule\target\debug\belajarmodule.exe: C:\xampp\htdocs\belajarrustlang\belajarmodule\src\kurang.rs C:\xampp\htdocs\belajarrustlang\belajarmodule\src\main.rs C:\xampp\htdocs\belajarrustlang\belajarmodule\src\matematika\mod.rs C:\xampp\htdocs\belajarrustlang\belajarmodule\src\matematika\tambah.rs

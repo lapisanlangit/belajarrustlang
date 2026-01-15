@@ -1,0 +1,6 @@
+   0.016536800s  INFO prepare_target{force=false package_id=halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo) target="halo"}: cargo::core::compiler::fingerprint: fingerprint dirty for halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo)/Check { test: false }/TargetInner { name: "halo", doc: true, ..: with_path("C:\\xampp\\htdocs\\belajarrustlang\\halo\\src\\main.rs", Edition2024) }
+   0.016597600s  INFO prepare_target{force=false package_id=halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo) target="halo"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.017337300s  INFO prepare_target{force=false package_id=halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo) target="halo"}: cargo::core::compiler::fingerprint: fingerprint dirty for halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo)/Check { test: true }/TargetInner { name: "halo", doc: true, ..: with_path("C:\\xampp\\htdocs\\belajarrustlang\\halo\\src\\main.rs", Edition2024) }
+   0.017358500s  INFO prepare_target{force=false package_id=halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo) target="halo"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking halo v0.1.0 (C:\xampp\htdocs\belajarrustlang\halo)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.24s
